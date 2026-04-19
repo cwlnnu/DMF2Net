@@ -14,6 +14,7 @@ If you find this repository useful for your research, please consider citing our
   year={2024},
   publisher={Elsevier}
 }
+```
 
 ## Acknowledgment
 
